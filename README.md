@@ -16,6 +16,6 @@ FlipCard and Button:
 ![image](https://sun9-76.userapi.com/impg/-zmb2VN1sYSCJnFPnvmE7e2obMKn9gbpMZmlug/aoFoNQ12iwM.jpg?size=1280x682&quality=96&sign=85b1ec32650dc090f85c54520156307b&type=album)
 ![image](https://sun9-60.userapi.com/impg/vLbWZx9YLKEWE0cGfrGdi1m7p-BQnBu6fVOCbw/TNpxZbNDbAw.jpg?size=1025x698&quality=96&sign=c40235cad76b0b86a8080f4bb5aaf9af&type=album)
 ## Контакты
-- VK :
-- Telegram: @
-- mail :
+- VK : https://vk.com/aframeevandrey
+- Telegram: @mrfenixe
+- mail : aframeev2@mail.ru
