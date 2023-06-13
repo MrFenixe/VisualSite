@@ -9,7 +9,7 @@
 В каждой директории есть файл с названием index.html, он и является пусковым файлом.
 ## Пример работы кода на сайте
 Star Wars text:  
-![image](https://github.com/dhoker23/Visual-Studio-Code-projects/assets/44202889/ac48b275-c9cb-4a37-8246-27fee85f36ab)  
+![image](https://sun9-37.userapi.com/impg/_sMQDeY3N8us_DYwGZHdLgy40S-SScU1MDmiDA/Ck1-p342CrE.jpg?size=1280x678&quality=96&sign=23f7141bcbeae91e129a02507df5a48c&type=album)
 BootStrap:  
 ![image](https://sun9-53.userapi.com/impg/lzBDW2yA3oLJSX0_eZFdNmqoaPj8IObirciVew/6Gh4Zm-JOtc.jpg?size=1280x673&quality=96&sign=cb565278547ef896677b12f820649dfa&type=album)  
 FlipCard and Button:  
