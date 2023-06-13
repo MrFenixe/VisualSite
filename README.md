@@ -13,8 +13,8 @@ Star Wars text:
 BootStrap:  
 ![image](https://sun9-53.userapi.com/impg/lzBDW2yA3oLJSX0_eZFdNmqoaPj8IObirciVew/6Gh4Zm-JOtc.jpg?size=1280x673&quality=96&sign=cb565278547ef896677b12f820649dfa&type=album)  
 FlipCard and Button:  
-![image](https://github.com/dhoker23/Visual-Studio-Code-projects/assets/44202889/9a26e809-16af-49b1-b80e-6e0119e40828)  
-![image](https://github.com/dhoker23/Visual-Studio-Code-projects/assets/44202889/2556aec5-10ee-4d5e-873c-c07fb0e95c66)  
+![image](https://sun9-76.userapi.com/impg/-zmb2VN1sYSCJnFPnvmE7e2obMKn9gbpMZmlug/aoFoNQ12iwM.jpg?size=1280x682&quality=96&sign=85b1ec32650dc090f85c54520156307b&type=album)
+![image](https://sun9-60.userapi.com/impg/vLbWZx9YLKEWE0cGfrGdi1m7p-BQnBu6fVOCbw/TNpxZbNDbAw.jpg?size=1025x698&quality=96&sign=c40235cad76b0b86a8080f4bb5aaf9af&type=album)
 ## Контакты
 - VK :
 - Telegram: @
