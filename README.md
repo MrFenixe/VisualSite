@@ -41,7 +41,7 @@
 
     ```@keyframes crawl{
     0%{
-        /*абвгдеев*/
+        
         top: 1400px;
         transform: rotateX(20deg) translateZ(0);
         -webkit-transform: rotateX(20deg) translateZ(0);
