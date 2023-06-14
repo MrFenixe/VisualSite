@@ -33,13 +33,10 @@
             
         </section>
     </div>
-    ```
-    
 ```
 Создание класса для текста
 ```
-
-    ```@keyframes crawl{
+    @keyframes crawl{
     0%{
         
         top: 1400px;
