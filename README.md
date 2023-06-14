@@ -9,50 +9,47 @@
 В каждой директории есть файл с названием index.html, он и является пусковым файлом.
 
 ## Фрагменты кода и их функции
-``` <div class="fade"></div>
-        <section class="resume">
-                <div class="crawl">
-                    <p>Афрамеев Андрей Андреевич</p>
-                    <p>Дата рождения 20.01.2004</p>
-                    <p>Место жительства: г.Саратов</p>
-                    <p>email: aframeev2@mail.ru </p>
-                    <p>Телефон: +79179877608</p>
-                    <p>Группа: б-МХРТ-21</p>
-                    <p>Место учёбы: СГТУ</p>
-                    <p>Особые навыки: спортстмен</p>
-                    <p>парашютист</p>
-                    <p>Навыки вождения:</p>
-                    <p>автомобиля</p>
-                    <p>и мотоцикла</p>
-                    <p>Количество друзей: 0</p>
-                    <p>Навыки программирования: </p>
-                    <p>Различные</p>
-                    <p>Разработал:</p>
-                    
-                </div>  
-            
-        </section>
-    </div>
+```
+<section class="resume">
+          <div class="crawl">
+            <p>Афрамеев Андрей Андреевич</p>
+            <p>Дата рождения 20.01.2004</p>
+            <p>Место жительства: г.Саратов</p>
+            <p>email: aframeev2@mail.ru </p>
+            <p>Телефон: +79179877608</p>
+            <p>Группа: б-МХРТ-21</p>
+            <p>Место учёбы: СГТУ</p>
+            <p>Особые навыки: спортстмен</p>
+            <p>парашютист</p>
+            <p>Навыки вождения:</p>
+            <p>автомобиля</p>
+            <p>и мотоцикла</p>
+            <p>Количество друзей: 0</p>
+            <p>Навыки программирования: </p>
+            <p>Различные</p>
+            <p>Разработал:</p>                  
+         </div>            
+ </section>   
 ```
 Создание класса для текста
 ```
-    @keyframes crawl{
-    0%{
+@keyframes crawl{
+0%{
         
-        top: 1400px;
-        transform: rotateX(20deg) translateZ(0);
-        -webkit-transform: rotateX(20deg) translateZ(0);
-        -moz-transform: rotateX(20deg) translateZ(0);
-        -ms-transform: rotateX(20deg) translateZ(0);
-        -o-transform: rotateX(20deg) translateZ(0);
+    top: 1400px;
+    transform: rotateX(20deg) translateZ(0);
+    -webkit-transform: rotateX(20deg) translateZ(0);
+    -moz-transform: rotateX(20deg) translateZ(0);
+    -ms-transform: rotateX(20deg) translateZ(0);
+    -o-transform: rotateX(20deg) translateZ(0);
 }
     100%{
-        top: -6000px;
-        transform: rotateX(25deg) translateZ(-2500px);
-        -webkit-transform: rotateX(25deg) translateZ(-2500px);
-        -moz-transform: rotateX(25deg) translateZ(-2500px);
-        -ms-transform: rotateX(25deg) translateZ(-2500px);
-        -o-transform: rotateX(25deg) translateZ(-2500px);
+    top: -6000px;
+    transform: rotateX(25deg) translateZ(-2500px);
+    -webkit-transform: rotateX(25deg) translateZ(-2500px);
+    -moz-transform: rotateX(25deg) translateZ(-2500px);
+    -ms-transform: rotateX(25deg) translateZ(-2500px);
+    -o-transform: rotateX(25deg) translateZ(-2500px);
 }
 }
    ```
